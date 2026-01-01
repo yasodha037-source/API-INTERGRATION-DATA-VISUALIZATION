@@ -28,3 +28,7 @@ One of the key features of this project is data visualization. The application u
 The development of this project was done using Visual Studio Code as the code editor and Google Chrome as the testing browser. GitHub was used as the version control platform to manage and store the project files. This project helps in understanding important concepts such as frontend and backend integration, API usage, asynchronous data fetching, and basic data visualization.
 
 In conclusion, the Weather Application project is a practical and beginner friendly web application that demonstrates real world API integration using Python Flask. It provides accurate weather data in both text and graphical formats and can be further enhanced by adding more features such as weather forecasts, wind speed, and deployment on cloud platforms. Overall, this project strengthens problem solving skills, improves understanding of full stack development, and builds confidence in working with real time APIs. It also serves as a strong foundation for advanced projects in web development, data visualization, and API based applications suitable for academic submission and practical learning purposes.
+
+*OUTPUT
+
+<img width="948" height="474" alt="Image" src="https://github.com/user-attachments/assets/04210ed4-4e4c-4816-9c8c-dcd9da519ee9" />
